@@ -1,0 +1,51 @@
+.body-main {
+    margin-left: 70px;
+    margin-right: 70px;
+    width: auto;
+    height: auto;
+    background-color: white;
+    margin-bottom: -20px
+    
+}
+
+.main-white{
+    background-color: #F0F0F0;
+
+    margin-top: -9px;
+}
+.container2-main{
+	padding-top: 10px;
+}
+.main-top .main-top1 a.menu{
+	border-bottom: none;
+}
+.tk-main{
+	height: 30px;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+}
+div.container2,div.container1{
+	margin-left: 1px;
+	margin-right: -20px;
+	padding-left: 5px;
+	padding-right: 5px
+}
+div.main1-sp2{
+	width: 1195px;
+}
+.fa-facebook-messenger{
+	position: fixed;
+	top:400px;
+	right: 25px;
+	font-size: 45px;
+	color: #1E8DEE;
+}
+
+.footer-left{
+	padding-top: 30px;
+	
+}
+div.table-brand a,div.main1-sp-left-main h3{
+	font-family: 'Montserrat', sans-serif;
+}

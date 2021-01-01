@@ -1,0 +1,44 @@
+.tt {
+    margin-left: 20px;
+    width: 300px;
+    height: 25px;
+   
+    border-radius: 5px;
+    border-width: 1px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+}
+.form-tt {
+    height: auto;
+    width: 50%;
+    background-color: #F1F1F1;
+    margin-left: 70px;
+    padding: 5px 100px;
+    
+    border-radius: 5px;
+    margin-top: 30px
+}
+.nhap {
+    width: 150px;
+    height: 35px;
+    background-color: #F0161F;
+    color: white;
+    padding: 10px 10px;
+    border: 1px solid #F1F1F1;
+}
+.reset {
+    width: 150px;
+    height: 35px;
+    background-color: #FFA722;
+    color: white;
+    margin-left: 30px;
+    padding: 10px 10px;
+    border: 1px solid #F1F1F1;
+}
+.active-tt {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.menu{
+	height: 670px;
+}

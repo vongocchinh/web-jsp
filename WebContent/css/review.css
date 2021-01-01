@@ -1,0 +1,108 @@
+.review-block-name {
+    font-size: 12px;
+    margin: 10px 0;
+}
+
+.review-block-date {
+    font-size: 12px;
+}
+
+.review-block-rate {
+    font-size: 13px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.review-block-title {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 15px;
+    white-space: pre-line;
+    overflow: hidden;
+}
+
+.review-block-description {
+    font-size: 13px;
+    padding-bottom: 5px;
+}
+.col-sm-9 .review-block-rate .fa-star{
+	font-size: 12px;
+}
+.col-sm-9 .review-block-rate .checked {
+    color: #FDFD2B;
+}
+
+.fa-star {
+    color: #A0A0A0;
+    
+}
+
+.review-block-rate .check-star {
+    color: #FDFD2B;
+}
+
+.col-sm-3 a {
+    text-decoration: none;
+}
+
+.col-sm-3 {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+
+.col-sm-9 {
+    float: left;
+    width: 75%;
+}
+
+.row-cmt {
+    height: auto;
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+    background-color: #EFEFEF;
+}
+.mota{
+	background-color: #EFEFEF;
+	padding: 10px;
+	font-size: 14px;
+	
+}
+div.img-pt-right a.tgh{
+	list-style:none;
+	
+	background-color: #46B1FF;
+	color: white;
+	width: 250px;
+	
+	border-radius:3px;
+	text-align:center;
+	margin-left:-10px;
+	
+	margin-top: 7px;
+	margin-left: 23px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+.nhanxet{
+	max-height: 120px;
+	max-width: 1100px;
+}
+ins{
+	color: red;
+}
+.xtcmt{
+	font-size: 12px;
+	color: blue;
+	float: right;
+	margin-top: 5px;
+	cursor: pointer;
+}
+div.row-cmt img .img-rounded{
+	width: 25px;
+	height: 25px;
+}

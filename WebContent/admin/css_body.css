@@ -1,0 +1,102 @@
+.body1{
+	background-color: #EBEBEB;
+}
+.container-left-top-index .container-top-index{
+	background-color: #3BAEDA;
+}
+.container-footer-index .row-fooetr-index{
+	background-color:  #3BAEDA;
+}
+.post-index-row-2 .post-index p{
+	color: white;
+}
+.post-index-row-2 .post-index{
+	border-radius: 0%;
+}
+.post-index-row-2 .post-index1{
+	background-color: #5D24D4;
+	
+}
+.post-index-row-2 .post-index2{
+	background-color: #FC531C;
+	
+}
+.post-index-row-2 .post-index3{
+	background-color: #5FC060;
+	
+}
+.post-index-row-2 .post-index4{
+	background-color: #F83F36;
+	
+}
+.container-top-index-search{
+	background-color: white;
+	padding-bottom: 10px;
+}
+.container-top-index-search input{
+	border-radius: 2%;
+	padding-left: 10px;
+	border: 1px solid black;
+}
+.container-top-index-search span{
+	color: black;
+}
+.row-fooetr-index .post-index{
+	border-radius: 0%;
+}
+.marqee marquee {
+	margin-top: 10px;
+	
+	width: 100%;
+	margin-bottom: 10px;
+	background-color: #BDBDBD;
+	color: black;
+	
+}
+div.container-right-insert{
+	margin-left: 10px;
+	float: left;
+	width: 1100px;	
+	height:auto;
+	border-radius: 0%;
+	margin-top: 20px;
+	
+}
+.container-right-insert .container-insert{
+	padding-top: 20px;
+	height:auto;
+}
+.table-kh{
+	margin-top: 10px;
+	background-color: white;
+	float: left;
+	width: 100%;
+	
+}
+.table-kh h4{
+	padding-left: 20px;
+}
+.clear{
+	clear: both;
+}
+.table-kh table {
+	background-color:white;
+	 border-collapse: collapse;
+	 width: 100%;
+	 float: left;
+	 border: 1px solid #DFDFDF;
+	 padding: 10px 10px;
+}
+.table-kh tr td{
+	border: 1px solid #DFDFDF;
+	padding: 5px 10px;
+}
+.table-kh .top{
+	background-color: #007BFF;
+	color: white;
+	text-align: center;
+	
+}
+.table-kh  td{
+	height: 30px;
+}

@@ -1,0 +1,86 @@
+.header-2{
+	position: static;
+	background-color: #FAFAFA;
+	height: 90px;
+	color: #070707;
+}
+.header-top-4 span.cart-hv{
+	border: 2px solid #070707;
+}
+.header-menu-header{
+	margin-top: 2px;
+}
+.header-menu-header a.top{
+	color:#070707;
+	
+}
+.header-menu-header2 input.search{
+	
+	border: 1px solid  #ABABAB;
+	height: 40px;
+}
+.header-menu-header2{
+	margin-top: -10px;
+}
+.header-2 .header-top .header-top-1 a img.logo{
+	width: 130px;
+	margin-left: 20px;
+}
+.search_sb{
+	height:36px;
+	margin-top:-38px;
+	float: right;
+	outline: none;
+	margin-right:3px;
+	border-radius:5px;
+	border: none;
+	background-color: #FFB400;
+}
+.sticky-menu-hover{
+	
+}
+.main-top-hover
+{
+	  float: left;
+        width: 230px;
+        height: 390px;
+        background-color: #F0F0F0;
+        color: black;
+        z-index: 999;
+}
+.main-top-hover .menu1{
+	text-decoration: none;
+	list-style: none;
+	display: block;
+	margin-top: 20px;
+	margin-left: 50px;
+	color: black;
+}
+.main-top-hover .menu1:hover{
+	color: #FF8200;
+}
+.main-top-hover .menu1 img{
+	position: absolute;
+	margin-left: -40px;
+	margin-top: -5px;
+}
+.main-top-hover .fas{
+	float: right;
+	color: black;
+	
+}
+.sticky-menu-hover{
+	display: none;
+}
+.content-menu:hover .sticky-menu-hover{
+	display: block;
+	cursor: pointer;
+	
+}
+.sticky-menu-hover{
+	position: absolute;
+	
+	z-index: 123;
+	border: 1px solid #ABABAB;
+	border-radius: 3px;
+}

@@ -1,0 +1,15 @@
+div .mota{
+	border-color: white;
+	position: relative;
+	margin-left: 50px;
+}
+.btn-top {
+    display:none ;
+}
+.fa-arrow-alt-circle-up {
+    position: fixed;
+    bottom: 50px;
+    font-size: 48px;
+    right: 20px;
+    cursor: pointer;
+}

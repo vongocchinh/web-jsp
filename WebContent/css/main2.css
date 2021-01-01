@@ -1,0 +1,9 @@
+.main1-sp .main1-sp-right-main-2 .colsp1{
+	margin-left: -2px;
+	
+	border: 1px solid #F3F3F3;
+}
+.main1-sp .main1-sp-right-main-2 .colsp1:hover{
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	color: #0078D7;
+}

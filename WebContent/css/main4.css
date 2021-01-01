@@ -1,0 +1,61 @@
+.main1-top a.main-menu{
+color: #525151;
+}
+.tra-gop-1{
+	position: absolute;
+	font-size: 12px;
+	color:  white;
+	background-color: red;
+	border-radius: 2px;
+	padding: 5px;
+	margin-top: -100px;
+	margin-left: 150px;
+}
+
+.tg{
+	
+	text-decoration: none;
+	display: inline;
+	list-style: none;
+	
+	margin-left: 10px;
+	margin-top: -30px;
+	background-color: red;
+	padding: 9px;
+	
+	border-radius: 3px;
+	color: white;
+	padding-left: 45px;
+	padding-right: 45px;
+}
+
+@media screen and (max-width: 1300px) {
+	.container2 .main1-sp2{
+	display: none;
+	}
+	.container1 .main1-sp2{
+	display: none;
+	}
+	.container2-main .kms{
+	display: none;
+	}
+	.container .main-top{
+	display: none;
+	}
+	.header-top-5{
+	display: none;
+	}
+	.footer-left-left{
+	display: 
+	none;
+	}
+	.banner-footer-main{
+	display:none; 
+	}
+	footer{
+	width: 100%;
+	}
+	.footer-left{
+	width: 100%;
+	}
+}

@@ -1,0 +1,42 @@
+    td.data {
+	color:  black;
+}
+		table.data {
+	color: black;
+}
+		th.data {
+	color: green;
+}
+.phantrang{
+text-align: center;
+margin-top: 10px;
+}
+.phantrang a{
+background-color: #F1B233;
+color: white;
+padding: 5px 5px;
+border-radius: 5px;
+}
+.phantrang a.back{
+margin-right: 5px;
+}
+.phantrang a.next{
+margin-left: 5px;
+}.data{
+font-size: 13px;
+}
+.th{
+font-size: 16px;
+}
+.menu-tc{
+	margin-left: 10px;
+	background-color: white;
+	padding: 10px;
+	color:  black;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.menu-top{
+	margin-bottom: 20px;
+}
+}

@@ -1,0 +1,7 @@
+<div class="container">
+	<img alt="" src="/dienthoai/imagesphone/gif.gif">
+</div>
+
+ <a href="javascript:void(0);" class="icon" style="z-index: 9999" onclick="myFunction1()">
+            <i class='fas fa-angle-down'></i>
+        </a>

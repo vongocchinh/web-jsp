@@ -1,0 +1,67 @@
+.gia del{
+	font-size: 14px;
+}
+.logo1{
+	color: white;
+	font-size: 14px;
+	position:absolute;
+	margin-top: -17px;
+	font-family: 'Lato', sans-serif;
+}
+.header-top-1{
+	margin-left: -10px;
+	margin-right: 20px;
+	margin-top: -5px;
+}
+.tra-gop{
+	position: absolute;
+	z-index: 776;
+	background-color: #FFBA00;
+	color: white;
+	margin-top: -107px;
+	margin-left: 150px;
+	font-size: 11px;
+	padding: 5px 5px;
+	border-radius: 3px;
+}
+div.fs-dttrate ul{
+	margin-left: -25px;
+	margin-top:-13px;
+	display: inline-block;
+}
+div.fs-dttrate ul li{
+	list-style: none;
+	display: inline;
+	z-index: 666;
+	font-size: 12px;
+	
+}
+div.fs-dttrate{
+	
+	display: inline-block;
+	z-index: 577;
+	font-size: 12px;
+}
+.gia{
+	margin-top: -10px;
+}
+.check-star{
+	color: #FDFD2B;
+}
+.slide{
+	margin-bottom: 20px;
+}
+.dd{
+	color: #A0A0A0;
+}
+.main1-sp2 .fs-dttrate ul{
+	position: absolute;
+	margin-top: -15px;
+	
+}
+.fa-star{
+	color: #A0A0A0
+}
+.check-star{
+	color: #FDFD2B;
+}
